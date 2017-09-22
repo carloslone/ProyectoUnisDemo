@@ -13,5 +13,10 @@ namespace ProyectoNuevo
             int variable = 0;
             Console.WriteLine(variable);
         }
+
+        int suma(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
