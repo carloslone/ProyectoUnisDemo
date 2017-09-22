@@ -10,6 +10,8 @@ namespace ProyectoNuevo
     {
         static void Main(string[] args)
         {
+            int variable = 0;
+            Console.WriteLine(variable);
         }
     }
 }
